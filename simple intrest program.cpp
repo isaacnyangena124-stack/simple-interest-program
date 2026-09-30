@@ -1,12 +1,4 @@
-// a calculating simple intrest
-/*
-Author:Brian Ndung'u Oyeka
-Registration Number:BCS-05-0544/2026
-Description:A program to calculate simple interest
-Date:29/09/2026
-Version 1
-*/
-
+// a calculating simple interest
 #include<stdio.h>
 #include <math.h>
 
